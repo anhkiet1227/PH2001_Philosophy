@@ -3,7 +3,7 @@
 ## 📌 Thông tin Video
 
 - **Tên tệp gốc:** `TrietHoc2.mp4`
-- **Thời lượng:** ~25 phút
+- **Thời lượng:** ~13 phút
 - **Dung lượng:** ~638.5 MB
 - **Chủ đề:** Quy luật chuyển hóa từ những thay đổi về Lượng thành những thay đổi về Chất trong Tư duy con người khi thực hiện huấn luyện mô hình học sâu (Deep Learning)
 
@@ -18,7 +18,7 @@
 </p>
 
 * 🎬 **Link YouTube chính thức:** **[https://youtu.be/xpUtLjb5jsM](https://youtu.be/xpUtLjb5jsM)**
-* 📑 **Kịch bản chi tiết 12 Slide kèm mốc thời gian:** [kich_ban_thuyet_trinh_25phut.md](../script/kich_ban_thuyet_trinh_25phut.md)
+* 📑 **Kịch bản chi tiết 12 Slide:** [kich_ban_thuyet_trinh_25phut.md](../script/kich_ban_thuyet_trinh_25phut.md)
 
 ---
 

@@ -1,31 +1,30 @@
-# 🎙️ KỊCH BẢN THUYẾT TRÌNH CHI TIẾT (25 PHÚT)
+# 🎙️ KỊCH BẢN THUYẾT TRÌNH CHI TIẾT
 ## BÁO CÁO CHUYÊN ĐỀ TRIẾT HỌC MÁC - LÊNIN (PH2001)
 
 > **Đề tài:** Quy luật chuyển hóa từ những thay đổi về Lượng thành những thay đổi về Chất trong Tư duy con người khi thực hiện huấn luyện mô hình học sâu (Deep Learning)  
-> **Thời lượng báo cáo:** 25 phút | **Đối tượng:** Thầy giáo phụ trách học phần & Toàn thể Học viên trong lớp  
+> **Đối tượng:** Thầy giáo phụ trách học phần & Toàn thể Học viên trong lớp  
 > **Chuyên ngành:** Công nghệ Thông tin / Khoa học Máy tính  
 > 🎬 **Video thuyết trình trên YouTube:** [https://youtu.be/xpUtLjb5jsM](https://youtu.be/xpUtLjb5jsM)
 
 ---
 
-## ⏱️ BẢNG TỔNG QUAN PHÂN BỔ THỜI LƯỢNG (TIMELINE BREAKDOWN)
+## 📑 BẢNG TỔNG QUAN NỘI DUNG BÁO CÁO (12 SLIDES)
 
-| Phần | Nội dung trọng tâm | Thời lượng | Mốc thời gian |
-| :---: | :--- | :---: | :---: |
-| **Phần 1** | **Mở đầu:** Đặt vấn đề chuyển dịch Paradigm từ *Software 1.0* (Lập trình quy tắc) sang *Software 2.0* (Học sâu xác suất) & Khủng hoảng tư duy IT | 3.0 phút | `00:00 - 03:00` |
-| **Phần 2** | **Cơ sở lý luận Triết học:** 5 phạm trù Lượng, Chất, Độ, Điểm nút, Bước nhảy trong hoạt động tư duy và nhận thức con người | 4.5 phút | `03:00 - 07:30` |
-| **Phần 3** | **Trọng tâm - Quy luật Lượng - Chất trong Tư duy người huấn luyện AI:**<br>• *I. Từ Lập trình quy tắc sang Tư duy xác suất & Hệ thống nổi sinh*<br>• *II. Cải tiến hơn về ghi nhớ ngữ cảnh (Context / Memory)* | 9.0 phút | `07:30 - 16:30` |
-| **Phần 4** | **Bài học Phương pháp luận & Nhận thức luận:** Định hướng cho kỹ sư IT (tránh Tả khuynh / Hữu khuynh) & Khẳng định vai trò Lý tính phản tư | 5.0 phút | `16:30 - 21:30` |
-| **Phần 5** | **Kết luận:** Đúc kết 3 thông điệp cốt lõi & Lời kết truyền cảm hứng cho cộng đồng nghiên cứu công nghệ | 3.5 phút | `21:30 - 25:00` |
+| Phần | Nội dung trọng tâm | Cấu trúc phân đoạn |
+| :---: | :--- | :--- |
+| **Phần 1** | **Mở đầu** | Đặt vấn đề chuyển dịch Paradigm từ *Software 1.0* (Lập trình quy tắc) sang *Software 2.0* (Học sâu xác suất) & Khủng hoảng tư duy IT |
+| **Phần 2** | **Cơ sở lý luận Triết học** | 5 phạm trù Lượng, Chất, Độ, Điểm nút, Bước nhảy trong hoạt động tư duy và nhận thức con người |
+| **Phần 3** | **Trọng tâm: Quy luật Lượng - Chất trong Tư duy người huấn luyện AI** | • *I. Từ Lập trình quy tắc sang Tư duy xác suất & Hệ thống nổi sinh*<br>• *II. Cải tiến hơn về ghi nhớ ngữ cảnh (Context / Memory)* |
+| **Phần 4** | **Bài học Phương pháp luận & Nhận thức luận** | Định hướng cho kỹ sư IT (tránh Tả khuynh / Hữu khuynh) & Khẳng định vai trò Lý tính phản tư |
+| **Phần 5** | **Kết luận** | Đúc kết 3 thông điệp cốt lõi & Lời kết truyền cảm hứng cho cộng đồng nghiên cứu công nghệ |
 
 ---
 
 ## 🎬 NỘI DUNG CHI TIẾT TỪNG PHẦN & LỜI THOẠI DIỄN GIẢ (SPEAKER SCRIPT)
 
-### PHẦN 1: MỞ ĐẦU (00:00 – 03:00 | 3.0 phút)
+### PHẦN 1: MỞ ĐẦU
 
 #### 📌 Slide 1: Sự chuyển dịch Paradigm — Từ Lập trình quy tắc (Software 1.0) sang Học sâu (Software 2.0)
-*Mốc thời gian: `00:00 - 01:30`*
 
 > 🗣️ **Lời thoại Diễn giả (Speaker Script):**  
 > *"Kính thưa Thầy và các bạn, cùng toàn thể các bạn học viên trong lớp.*  
@@ -39,7 +38,6 @@
 ---
 
 #### 📌 Slide 2: Đặt câu hỏi Triết học & Tuyên bố Đề tài
-*Mốc thời gian: `01:30 - 03:00`*
 
 > 🗣️ **Lời thoại Diễn giả (Speaker Script):**  
 > *"Thưa Thầy và các bạn, đây không chỉ là một thách thức kỹ thuật đơn thuần, mà là một câu hỏi sâu sắc về Nhận thức luận Triết học.*  
@@ -52,10 +50,9 @@
 
 ---
 
-### PHẦN 2: CƠ SỞ LÝ LUẬN TRIẾT HỌC VỀ QUY LUẬT LƯỢNG - CHẤT TRONG TƯ DUY (03:00 – 07:30 | 4.5 phút)
+### PHẦN 2: CƠ SỞ LÝ LUẬN TRIẾT HỌC VỀ QUY LUẬT LƯỢNG - CHẤT TRONG TƯ DUY
 
 #### 📌 Slide 3: Phạm trù Lượng và Chất trong Hoạt động Tư duy Nhận thức
-*Mốc thời gian: `03:00 - 05:15`*
 
 > 🗣️ **Lời thoại Diễn giả (Speaker Script):**  
 > *"Kính thưa Thầy và các bạn, để phân tích sự chuyển hóa này, trước hết chúng ta cần làm rõ 5 phạm trù cốt lõi của Quy luật Lượng - Chất dưới góc độ Nhận thức luận mác-xít.*  
@@ -70,7 +67,6 @@
 ---
 
 #### 📌 Slide 4: Tiến trình Vận động: Độ, Điểm nút và Bước nhảy Tư duy
-*Mốc thời gian: `05:15 - 07:30`*
 
 > 🗣️ **Lời thoại Diễn giả (Speaker Script):**  
 > *"Tiến trình chuyển hóa trong nhận thức diễn ra qua ba mắt khâu biện chứng: Độ, Điểm nút và Bước nhảy.*  
@@ -83,12 +79,11 @@
 
 ---
 
-### PHẦN 3: PHÂN TÍCH QUY LUẬT LƯỢNG - CHẤT TRONG TƯ DUY NGƯỜI HUẤN LUYỆN AI (07:30 – 16:30 | 9.0 phút) — [TRỌNG TÂM CỐT LÕI]
+### PHẦN 3: PHÂN TÍCH QUY LUẬT LƯỢNG - CHẤT TRONG TƯ DUY NGƯỜI HUẤN LUYỆN AI — [TRỌNG TÂM CỐT LÕI]
 
-#### I. Cải tiến từ Lập trình quy tắc sang Tư duy xác suất & Hệ thống nổi sinh (`07:30 - 12:00`)
+#### I. Cải tiến từ Lập trình quy tắc sang Tư duy xác suất & Hệ thống nổi sinh
 
 #### 📌 Slide 5: Tích lũy về Lượng & Phạm trù Độ trong giai đoạn Lập trình
-*Mốc thời gian: `07:30 - 09:45`*
 
 > 🗣️ **Lời thoại Diễn giả (Speaker Script):**  
 > *"Bây giờ, kính mời Thầy và các bạn đi vào nội dung trọng tâm đầu tiên: Sự tích lũy Lượng và rào cản phạm trù Độ trong quá trình huấn luyện mô hình.*  
@@ -104,7 +99,6 @@
 ---
 
 #### 📌 Slide 6: Bước nhảy vọt về CHẤT — 3 Chuyển biến Paradigm trong Tư duy IT
-*Mốc thời gian: `09:45 - 12:00`*
 
 > 🗣️ **Lời thoại Diễn giả (Speaker Script):**  
 > *"Sự bùng nổ mâu thuẫn tại Điểm nút buộc người kỹ sư phải thực hiện một BƯỚC NHẢY VỌT VỀ CHẤT trong tư duy, thể hiện qua 3 chuyển biến vĩ đại:*  
@@ -117,10 +111,9 @@
 
 ---
 
-#### II. Cải tiến hơn về Ghi nhớ Ngữ cảnh (Context / Memory) (`12:00 - 16:30`)
+#### II. Cải tiến hơn về Ghi nhớ Ngữ cảnh (Context / Memory)
 
 #### 📌 Slide 7: Bài toán 'Quên Context' & Nỗ lực Tích lũy Lượng Kỹ thuật
-*Mốc thời gian: `12:00 - 14:15`*
 
 > 🗣️ **Lời thoại Diễn giả (Speaker Script):**  
 > *"Chuyển sang nội dung trọng tâm thứ hai: Minh chứng thực tiễn qua bài toán Ghi nhớ ngữ cảnh (Context) của AI.*  
@@ -128,7 +121,7 @@
 > **1. Sự tích lũy Lượng qua hiện tượng AI 'quên Context':**  
 > Trong thực tế sử dụng, khi chuỗi hội thoại hoặc mã nguồn dự án phình to, AI bị quá tải, xuất hiện hiện tượng lặp từ, ảo giác (*Hallucination*), hoặc trôi dạt ngữ cảnh ban đầu (*Context Drift/Loss*).  
 >  
-> Để khắc phục, con người liên tục gia tăng các yếu tố định lượng đo đếm được: Mở rộng cửa sổ ngữ cảnh (*Context Window* từ 2k -> 8k -> 128k -> 1M+ tokens), xây dựng hệ thống RAG (*Retrieval-Augmented Generation*), tích hợp CSDL Vector, và tinh chỉnh các kỹ thuật Prompting (*System Prompts, Memory Buffer, Agentic Memory Loops*).  
+> Để khắc phục, con người liên tục gia tăng các yếu tố định lượng đo đếm được: Mở rộng cửa sổ ngữ cảnh (*Context Window*), xây dựng hệ thống RAG (*Retrieval-Augmented Generation*), tích hợp CSDL Vector, và tinh chỉnh các kỹ thuật Prompting (*System Prompts, Memory Buffer, Agentic Memory Loops*).  
 >  
 > **2. Phạm trù 'Độ' và Mâu thuẫn Nhận thức bùng nổ:**  
 > Trong phạm vi 'Độ', con người duy trì lối tư duy cũ (xem AI là cỗ máy Prompt -> Output đơn lẻ), cố gắng giải quyết lỗi bằng cách nạp thêm dữ liệu thô một cách thụ động.  
@@ -138,7 +131,6 @@
 ---
 
 #### 📌 Slide 8: Bước nhảy tư duy: Con người là 'Mỏ neo Ngữ cảnh' (Context Anchor)
-*Mốc thời gian: `14:15 - 16:30`*
 
 > 🗣️ **Lời thoại Diễn giả (Speaker Script):**  
 > *"Mâu thuẫn tại Điểm nút thúc đẩy tư duy con người thực hiện BƯỚC NHẢY VỌT VỀ CHẤT thứ hai trong nhận thức:*  
@@ -151,10 +143,9 @@
 
 ---
 
-### PHẦN 4: BÀI HỌC PHƯƠNG PHÁP LUẬN & NHẬN THỨC LUẬN (16:30 – 21:30 | 5.0 phút)
+### PHẦN 4: BÀI HỌC PHƯƠNG PHÁP LUẬN & NHẬN THỨC LUẬN
 
 #### 📌 Slide 9: Bài học Phương pháp luận — Tránh Bệnh Nóng vội (Tả khuynh) & Bệnh Bảo thủ (Hữu khuynh)
-*Mốc thời gian: `16:30 - 19:00`*
 
 > 🗣️ **Lời thoại Diễn giả (Speaker Script):**  
 > *"Kính thưa Thầy và các bạn, từ việc nghiên cứu Quy luật Lượng - Chất trong thực tiễn huấn luyện AI, chúng ta rút ra hai bài học phương pháp luận quan trọng cho người làm công nghệ:*  
@@ -165,7 +156,6 @@
 ---
 
 #### 📌 Slide 10: Nhận thức luận Triết học — Bản chất Con người với AI
-*Mốc thời gian: `19:00 - 21:30`*
 
 > 🗣️ **Lời thoại Diễn giả (Speaker Script):**  
 > *"Bài học sâu sắc nhất về mặt Nhận thức luận là phân định rạch ròi bản chất giữa Con người và AI:*  
@@ -178,10 +168,9 @@
 
 ---
 
-### PHẦN 5: KẾT LUẬN & LỜI KẾT (21:30 – 25:00 | 3.5 phút)
+### PHẦN 5: KẾT LUẬN & LỜI KẾT
 
 #### 📌 Slide 11: Tóm tắt 3 Thông điệp Cốt lõi của Chuyên đề
-*Mốc thời gian: `21:30 - 23:15`*
 
 > 🗣️ **Lời thoại Diễn giả (Speaker Script):**  
 > *"Kính thưa Thầy giáo và toàn thể các bạn học viên, để khép lại bài báo cáo chuyên đề hôm nay, nhóm chúng em xin đúc kết ba thông điệp cốt lõi:*  
@@ -193,7 +182,6 @@
 ---
 
 #### 📌 Slide 12: Lời kết Truyền cảm hứng & Lời cảm ơn
-*Mốc thời gian: `23:15 - 25:00`*
 
 > 🗣️ **Lời thoại Diễn giả (Speaker Script):**  
 > *"Kính thưa Thầy và các bạn, nhóm chúng em xin gửi gắm lời kết:*  

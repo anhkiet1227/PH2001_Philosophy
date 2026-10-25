@@ -6,7 +6,7 @@
   <a href="https://youtu.be/xpUtLjb5jsM" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Xem%20Video%20B%C3%A1o%20C%C3%A1o-red?style=for-the-badge&logo=youtube" alt="YouTube Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Tr%E1%BA%A1ng%20th%C3%A1i-Ho%C3%A0n%20th%C3%A0nh%20(25%20ph%C3%BAt)-brightgreen?style=for-the-badge" alt="Status Badge"/>
+  <img src="https://img.shields.io/badge/Tr%E1%BA%A1ng%20th%C3%A1i-Ho%C3%A0n%20th%C3%A0nh-brightgreen?style=for-the-badge" alt="Status Badge"/>
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
 </p>
 
@@ -17,7 +17,7 @@
 > ### **"Quy luật chuyển hóa từ những thay đổi về Lượng thành những thay đổi về Chất trong Tư duy con người khi thực hiện huấn luyện mô hình học sâu (Deep Learning)"**
 
 * **Bậc đào tạo:** Sau Đại học / Đại học  
-* **Thời lượng báo cáo:** 25 phút (12 Slides chuẩn hóa kịch bản chi tiết)  
+* **Quy mô báo cáo:** 12 Slides chuẩn hóa kịch bản chi tiết (~13 phút thuyết trình)  
 * **Đối tượng báo cáo:** Giảng viên phụ trách học phần & Toàn thể Học viên / Nghiên cứu sinh trong lớp  
 
 ---
@@ -87,15 +87,15 @@ Chuyên đề được cấu trúc chặt chẽ dựa trên 5 phần theo phươ
 
 ---
 
-## ⏱️ Phân Bổ Thời Lượng Báo Cáo (Timeline Breakdown - 25 Phút)
+## 📑 Cấu Trúc Nội Dung Báo Cáo (12 Slides)
 
-| Phần | Tiêu đề phân đoạn | Thời lượng | Mốc thời gian |
-| :---: | :--- | :---: | :---: |
-| **Phần 1** | **Mở đầu:** Chuyển dịch Paradigm từ *Software 1.0* sang *Software 2.0* & Khủng hoảng tư duy IT | 3.0 phút | `00:00 - 03:00` |
-| **Phần 2** | **Cơ sở lý luận Triết học:** 5 phạm trù Lượng, Chất, Độ, Điểm nút, Bước nhảy trong tư duy con người | 4.5 phút | `03:00 - 07:30` |
-| **Phần 3** | **Trọng tâm:** Quy luật Lượng - Chất trong Tư duy người huấn luyện AI (Tư duy xác suất & Mỏ neo ngữ cảnh) | 9.0 phút | `07:30 - 16:30` |
-| **Phần 4** | **Bài học Phương pháp luận & Nhận thức luận:** Tránh Tả khuynh/Hữu khuynh & Lý tính phản tư | 5.0 phút | `16:30 - 21:30` |
-| **Phần 5** | **Kết luận:** Đúc kết 3 thông điệp cốt lõi & Lời kết truyền cảm hứng cho cộng đồng nghiên cứu | 3.5 phút | `21:30 - 25:00` |
+| Phần | Tiêu đề phân đoạn | Nội dung trọng tâm |
+| :---: | :--- | :--- |
+| **Phần 1** | **Mở đầu** | Chuyển dịch Paradigm từ *Software 1.0* sang *Software 2.0* & Khủng hoảng tư duy IT |
+| **Phần 2** | **Cơ sở lý luận Triết học** | 5 phạm trù Lượng, Chất, Độ, Điểm nút, Bước nhảy trong tư duy con người |
+| **Phần 3** | **Trọng tâm** | Quy luật Lượng - Chất trong Tư duy người huấn luyện AI (Tư duy xác suất & Mỏ neo ngữ cảnh) |
+| **Phần 4** | **Bài học Phương pháp luận & Nhận thức luận** | Tránh Tả khuynh/Hữu khuynh & Khẳng định vai trò Lý tính phản tư |
+| **Phần 5** | **Kết luận** | Đúc kết 3 thông điệp cốt lõi & Lời kết truyền cảm hứng cho cộng đồng nghiên cứu |
 
 ---
 
@@ -115,14 +115,14 @@ PH2001_Philosophy/
 │
 └── video/                               # Thư mục tài liệu đa phương tiện
     ├── README.md                        # Hướng dẫn truy cập video, liên kết lưu trữ đám mây & Git LFS
-    └── TrietHoc2.mp4                    # [Tệp cục bộ] Video thuyết trình hoàn chỉnh (25 phút, ~638 MB)
+    └── TrietHoc2.mp4                    # [Tệp cục bộ] Video thuyết trình hoàn chỉnh (~13 phút, ~638 MB)
 ```
 
 ---
 
 ## 📹 Truy Cập Video Thuyết Trình
 
-Tệp video ghi hình bài báo cáo hoàn chỉnh có thời lượng **25 phút** với kích thước **~638.5 MB** (`TrietHoc2.mp4`).
+Tệp video ghi hình bài báo cáo hoàn chỉnh có thời lượng **khoảng 13 phút** với kích thước **~638.5 MB** (`TrietHoc2.mp4`).
 
 <p align="center">
   <a href="https://youtu.be/xpUtLjb5jsM" target="_blank">
